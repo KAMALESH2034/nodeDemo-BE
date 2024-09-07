@@ -9,7 +9,7 @@ const URL = "mongodb+srv://kamalesh:user2024@test1.2tbir.mongodb.net/?retryWrite
 
 //middleware
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://nodedemofe.netlify.app/",
     
 }));
 
